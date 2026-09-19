@@ -26,6 +26,10 @@ xychart-beta
 |   |   |   |   |   |   |   |
 |   |   |   |   | - | - | - |
 
+### Activity Heatmap (Last 3 Months)
+
+![Activity Heatmap](./assets/heatmap.svg)
+
 ### Missed Days
 | Date | Day |
 | --- | --- |
