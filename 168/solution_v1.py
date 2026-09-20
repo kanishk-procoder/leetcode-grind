@@ -1,8 +1,8 @@
 class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        arr = s.split()
-        lastword = arr[-1]
-
-        res = len(lastword)
-
-        return res
+    def convertToTitle(self, columnNumber: int) -> str:
+        result = []
+        while columnNumber > 0:
+            columnNumber -= 1
+            result.append(chr(columnNumber % 26 + ord('A')))
+            columnNumber //= 26
+        return ''.join(reversed(result))

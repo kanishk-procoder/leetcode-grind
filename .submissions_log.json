@@ -660,26 +660,6 @@
     "version": 1
   },
   {
-    "submission_id": "runcode_1789892905.7105832_HKqYqbPHH7",
-    "problem_id": "58",
-    "problem_title": "Length of Last Word",
-    "difficulty": "Easy",
-    "language": "python3",
-    "code_hash": "749a3ada41e701eb3db8211d6c23576bad274d987a917abd5f43346821c57557",
-    "timestamp": "2026-09-20T08:28:29.394Z",
-    "version": 2
-  },
-  {
-    "submission_id": "runcode_1789895053.575096_mpF6MnL4Mt",
-    "problem_id": "168",
-    "problem_title": "Excel Sheet Column Title",
-    "difficulty": "Easy",
-    "language": "python3",
-    "code_hash": "40c2a70099ade51aad25fb2d16d4acd140a31166e526ae690a03e1765f0a8188",
-    "timestamp": "2026-09-20T09:04:16.859Z",
-    "version": 1
-  },
-  {
     "submission_id": "2147515494",
     "problem_id": "168",
     "problem_title": "Excel Sheet Column Title",
@@ -687,6 +667,6 @@
     "language": "python3",
     "code_hash": "f569fbccf0de5edcf6d832d05bf42139a6d07d878580f882872ff7d4b7673231",
     "timestamp": "2026-09-20T09:04:23.205Z",
-    "version": 2
+    "version": 1
   }
 ]
