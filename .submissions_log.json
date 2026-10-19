@@ -718,5 +718,15 @@
     "code_hash": "a9dd6101cd0872059a86eadeccb6ff96d1ac4bfd5256140f2b46cd046da629d0",
     "timestamp": "2026-10-19T15:53:47.933Z",
     "version": 3
+  },
+  {
+    "submission_id": "1792425286880",
+    "problem_id": "283",
+    "problem_title": "Move Zeroes",
+    "difficulty": "Easy",
+    "language": "python3",
+    "code_hash": "2ad335bb239fa63611d7bef914cec8f52fa6e45296b869d8c36364a28e754ed2",
+    "timestamp": "2026-10-19T15:54:47.430Z",
+    "version": 3
   }
 ]
