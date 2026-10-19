@@ -2,7 +2,7 @@
 
 | Difficulty | Link | Tags |
 | --- | --- | --- |
-| 🟢 Easy | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?utm_source=chatgpt.com) | Array, Math |
+| 🟢 Easy | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2176392711/?utm_source=chatgpt.com) | Array, Math |
 
 ## Submissions
 | Version | Date | Language |
@@ -18,3 +18,4 @@
 | v9 | 2026-10-19T16:22:58.037Z | python3 |
 | v10 | 2026-10-19T16:23:04.363Z | python3 |
 | v11 | 2026-10-19T16:23:55.831Z | python3 |
+| v12 | 2026-10-19T16:24:05.213Z | python3 |
