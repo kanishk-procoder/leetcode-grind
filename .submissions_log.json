@@ -748,5 +748,15 @@
     "code_hash": "9293ef606c4995860b00a48cd817e56d70c395b54f1ffe6700bd90c92bb5be4a",
     "timestamp": "2026-10-19T16:02:59.627Z",
     "version": 1
+  },
+  {
+    "submission_id": "1792426499923",
+    "problem_id": "1481",
+    "problem_title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "Medium",
+    "language": "python3",
+    "code_hash": "7dcd938a5899928a2d64c4dddf7321c19b0051b7a91a15258894a5e90165c358",
+    "timestamp": "2026-10-19T16:15:00.301Z",
+    "version": 1
   }
 ]
