@@ -678,5 +678,15 @@
     "code_hash": "1b9c65301850fb7be15f6fd1aa52198634b7ed9d96760670151e710bfc1bc005",
     "timestamp": "2026-09-23T03:22:42.808Z",
     "version": 1
+  },
+  {
+    "submission_id": "1792423435740",
+    "problem_id": "441",
+    "problem_title": "Arranging Coins",
+    "difficulty": "Easy",
+    "language": "python3",
+    "code_hash": "8a07f5cfc6c332ee7e4b1ea3fdb391d6068029ccd0a0651eeb0c1e6f670d3b28",
+    "timestamp": "2026-10-19T15:23:56.121Z",
+    "version": 1
   }
 ]

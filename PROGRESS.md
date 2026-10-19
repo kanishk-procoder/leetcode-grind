@@ -1,10 +1,10 @@
 # LeetCode Progress
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-44-blue) ![Easy](https://img.shields.io/badge/Easy-30-brightgreen) ![Medium](https://img.shields.io/badge/Medium-13-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-1%20Days-firebrick)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-45-blue) ![Easy](https://img.shields.io/badge/Easy-31-brightgreen) ![Medium](https://img.shields.io/badge/Medium-13-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-1%20Days-firebrick)
 
 ```mermaid
 pie title Problems by Difficulty
-    "Easy (30)" : 30
+    "Easy (31)" : 31
     "Medium (13)" : 13
     "Hard (1)" : 1
 ```
@@ -12,19 +12,19 @@ pie title Problems by Difficulty
 ```mermaid
 xychart-beta
     title "Submissions Per Month"
-    x-axis ["2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
+    x-axis ["2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Problems Solved" 0 --> 3
-    bar [0, 0, 2, 2, 0, 3]
+    bar [0, 2, 2, 0, 3, 1]
 ```
 
 ### Current Month Activity
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| - | - | ❌ | ❌ | ❌ | ❌ | ❌ |
+| - | - | - | - | ❌ | ❌ | ❌ |
 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| ✅ | ❌ | ❌ | ✅ |   |   |   |
-|   |   |   |   | - | - | - |
+| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| ❌ | ✅ |   |   |   |   |   |
+|   |   |   |   |   |   |   |
 
 ### Activity Heatmap (Last 3 Months)
 
@@ -33,17 +33,17 @@ xychart-beta
 ### Missed Days
 | Date | Day |
 | --- | --- |
-| 2026-09-11 | Friday |
-| 2026-09-12 | Saturday |
-| 2026-09-13 | Sunday |
-| 2026-09-14 | Monday |
-| 2026-09-15 | Tuesday |
-| 2026-09-16 | Wednesday |
-| 2026-09-17 | Thursday |
-| 2026-09-18 | Friday |
-| 2026-09-21 | Monday |
-| 2026-09-22 | Tuesday |
-| ... | ... (499 total missed days) |
+| 2026-10-09 | Friday |
+| 2026-10-10 | Saturday |
+| 2026-10-11 | Sunday |
+| 2026-10-12 | Monday |
+| 2026-10-13 | Tuesday |
+| 2026-10-14 | Wednesday |
+| 2026-10-15 | Thursday |
+| 2026-10-16 | Friday |
+| 2026-10-17 | Saturday |
+| 2026-10-18 | Sunday |
+| ... | ... (524 total missed days) |
 
 ### Milestones
 - [x] First problem solved
