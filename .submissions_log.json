@@ -938,5 +938,15 @@
     "code_hash": "a8d8f03ecb498cadd9c014c0a5ea4faf188160bd2dbb1a03c526f1048fbcf1c9",
     "timestamp": "2026-10-20T12:51:42.000Z",
     "version": 4
+  },
+  {
+    "submission_id": "2177076633",
+    "problem_id": "387",
+    "problem_title": "First Unique Character in a String",
+    "difficulty": "Easy",
+    "language": "python3",
+    "code_hash": "ea7ec844cdacd8bf6629f9f5dfbca3884e77a2ffb5bbed74828bb0757a8d304b",
+    "timestamp": "2026-10-20T13:04:08.000Z",
+    "version": 1
   }
 ]
