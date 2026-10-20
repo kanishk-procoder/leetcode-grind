@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-51-blue) ![Easy](https://img.shields.io/badge/Easy-36-brightgreen) ![Medium](https://img.shields.io/badge/Medium-14-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-1%20Days-firebrick)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-51-blue) ![Easy](https://img.shields.io/badge/Easy-36-brightgreen) ![Medium](https://img.shields.io/badge/Medium-14-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-2%20Days-firebrick)
 
 ```mermaid
 pie title Problems by Difficulty
@@ -14,7 +14,7 @@ xychart-beta
     title "Submissions Per Month"
     x-axis ["2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Problems Solved" 0 --> 3
-    bar [0, 2, 2, 0, 3, 1]
+    bar [0, 2, 2, 0, 3, 2]
 ```
 
 ### Current Month Activity
@@ -23,7 +23,7 @@ xychart-beta
 | - | - | - | - | ❌ | ❌ | ❌ |
 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| ❌ | ✅ |   |   |   |   |   |
+| ❌ | ✅ | ✅ |   |   |   |   |
 |   |   |   |   |   |   |   |
 
 ### Activity Heatmap (Last 3 Months)
