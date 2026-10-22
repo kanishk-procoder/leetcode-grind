@@ -1,10 +1,10 @@
 # LeetCode Progress
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-67-blue) ![Easy](https://img.shields.io/badge/Easy-50-brightgreen) ![Medium](https://img.shields.io/badge/Medium-16-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-4%20Days-firebrick)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-68-blue) ![Easy](https://img.shields.io/badge/Easy-51-brightgreen) ![Medium](https://img.shields.io/badge/Medium-16-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-4%20Days-firebrick)
 
 ```mermaid
 pie title Problems by Difficulty
-    "Easy (50)" : 50
+    "Easy (51)" : 51
     "Medium (16)" : 16
     "Hard (1)" : 1
 ```
@@ -56,7 +56,7 @@ xychart-beta
 - [ ] 30-day streak
 
 ### Difficulty Distribution
-Easy:   ██████████████
+Easy:   ███████████████
 Medium: ████
-Hard:   ██
+Hard:   █
 
