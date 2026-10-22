@@ -1158,5 +1158,15 @@
     "code_hash": "a49195fa413dab7a68affb14101de61a5449ac402254b8cef9240ae08241809f",
     "timestamp": "2026-10-22T09:05:28.000Z",
     "version": 1
+  },
+  {
+    "submission_id": "2178686501",
+    "problem_id": "1814",
+    "problem_title": "Count Nice Pairs in an Array",
+    "difficulty": "Medium",
+    "language": "python3",
+    "code_hash": "282521581c037d335dbbade7e3a695eb416c4deaab6ddd4d9f529a6b850a0f96",
+    "timestamp": "2026-10-22T09:28:03.000Z",
+    "version": 1
   }
 ]
