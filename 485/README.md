@@ -2,7 +2,7 @@
 
 | Difficulty | Link | Tags |
 | --- | --- | --- |
-| 🟢 Easy | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/?utm_source=chatgpt.com) | Array |
+| 🟢 Easy | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/submissions/2176408554/?utm_source=chatgpt.com) | Array |
 
 ## Submissions
 | Version | Date | Language |
@@ -16,3 +16,4 @@
 | v7 | 2026-10-19T16:41:18.993Z | python3 |
 | v8 | 2026-10-19T16:41:42.390Z | python3 |
 | v9 | 2026-10-19T16:41:53.241Z | python3 |
+| v10 | 2026-10-19T16:42:17.858Z | python3 |
