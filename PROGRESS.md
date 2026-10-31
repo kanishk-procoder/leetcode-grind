@@ -1,10 +1,10 @@
 # LeetCode Progress
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-74-blue) ![Easy](https://img.shields.io/badge/Easy-51-brightgreen) ![Medium](https://img.shields.io/badge/Medium-22-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-0%20Days-firebrick)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-75-blue) ![Easy](https://img.shields.io/badge/Easy-52-brightgreen) ![Medium](https://img.shields.io/badge/Medium-22-orange) ![Hard](https://img.shields.io/badge/Hard-1-red) ![Streak](https://img.shields.io/badge/Current%20Streak-0%20Days-firebrick)
 
 ```mermaid
 pie title Problems by Difficulty
-    "Easy (51)" : 51
+    "Easy (52)" : 52
     "Medium (22)" : 22
     "Hard (1)" : 1
 ```
